@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JewellerRails/.idea/Jeweller.iml" filepath="$PROJECT_DIR$/../JewellerRails/.idea/Jeweller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JewellerLaravel.iml" filepath="$PROJECT_DIR$/.idea/JewellerLaravel.iml" />
+    </modules>
+  </component>
+</project>
