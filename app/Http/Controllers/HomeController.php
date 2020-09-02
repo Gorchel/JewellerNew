@@ -60,7 +60,7 @@ class HomeController extends Controller
     }
 
     protected function setHomeLocale(Request $request) {
-        if ($request->has('locale')) {
+        if ($request->has('locale') && !empty($request->get('locale'))) {
             \App::setLocale($request->get('locale'));
         } else {
             \App::setLocale('ru');

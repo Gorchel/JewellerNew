@@ -16,7 +16,7 @@
 </head>
 <body>
     <audio src="/audios/audio.mp3" autoplay="autoplay" loop="loop" id="background-audio"></audio>
-    <input type="hidden" id="_locale" value="{{Request::get('local')}}">
+    <input type="hidden" id="_locale" value="{{\Request::get('locale')}}">
     <div class="container-fluid" id="wrapper">
         <div class="container" id="header">
             <div class="row" id="translatePanelRow">
