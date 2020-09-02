@@ -63,8 +63,8 @@
             @show
         </div>
         <div class="container" id="footer">
-            <p><input type="image" src="/images/line.jpg" alt=""></p>
-            <p><input type="image" src="/images/footer.jpg" alt=""></p>
+            <p><img src="/images/line.jpg" alt=""></p>
+            <p><img src="/images/footer.jpg" alt=""></p>
         </div>
     </div>
     <script src="/js/jquery.min.js"></script>
